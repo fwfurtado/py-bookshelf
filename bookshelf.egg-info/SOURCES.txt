@@ -1,0 +1,7 @@
+README.rst
+setup.py
+bookshelf/__init__.py
+bookshelf.egg-info/PKG-INFO
+bookshelf.egg-info/SOURCES.txt
+bookshelf.egg-info/dependency_links.txt
+bookshelf.egg-info/top_level.txt
